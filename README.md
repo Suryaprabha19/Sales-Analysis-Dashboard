@@ -1,4 +1,4 @@
-# 🛒 Sales Dashboard — Electronic Sales
+# 🛒 Sales Dashboard - Electronic Sales
 
 An Excel-based sales analytics dashboard built from **20,000 electronic sales transactions** (2023–2024), covering product performance, loyalty scoring, add-on purchases, sales trends, and revenue breakdowns by product type. The dashboard features interactive slicers, pie charts, bar charts, and trend lines.
 
